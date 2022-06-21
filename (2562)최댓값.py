@@ -5,7 +5,7 @@ number = [int(sys.stdin.readline()) for _ in range(9)] # 리스트 컴프리헨�
 print(max(number))
 print(number.index(max(number)) + 1)
 
-# if ver.
+# differnt ver.
 
 # import sys
 #
